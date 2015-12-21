@@ -2,7 +2,7 @@
 
 **This fork supports IE8 with es5-shim, es5-sham and es6-promise**
 
-**This module is out of maintanance, use [fetch-ie8](https://www.npmjs.com/package/fetch-ie8) instead.**
+**This module is out of maintanance, use [fetch-ie8](https://www.npmjs.com/package/fetch-ie8) instead. or you can try [promisingagent](https://www.npmjs.com/package/promisingagent) if you want to use promise api for ajax and don't need ServiceWorker**
 
 The global `fetch` function is an easier way to make web requests and handle
 responses than using an XMLHttpRequest. This polyfill is written as closely as
